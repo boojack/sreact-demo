@@ -1,0 +1,16 @@
+{
+  "name": "sreact-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "sreactjs": "^0.1.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.4",
+    "vite": "^2.2.1"
+  }
+}
